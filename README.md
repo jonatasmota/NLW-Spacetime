@@ -9,9 +9,9 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre">About</a> •
- <a href="#-projeto">Project</a> •
- <a href="#%EF%B8%8F-autor">Author</a>
+ <a href="#-about">About</a> •
+ <a href="#-project">Project</a> •
+ <a href="#%EF%B8%8F-author">Author</a>
 </p>
 
 ## 💻 About
@@ -38,10 +38,11 @@ This repository was created to put my project carried out at Next Level Week #12
 <div align="center">
 
 ### ⚙️ Back end
-<img src="" />
+<img src="![image](https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/558beb3a-ea1a-4abf-9df6-0df8cbfc220b)
+" />
   
 ### 🌐 Front end
-<img src="" />
+<img src="![image](https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/8509e836-2db7-4731-94b7-2cb431fb5471)" />
   
 ### 📱 Mobile
 <img src="" />
