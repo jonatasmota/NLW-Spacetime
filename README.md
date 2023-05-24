@@ -45,6 +45,7 @@ This repository was created to put my project carried out at Next Level Week #12
   
 ### 📱 Mobile
 <img src="https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/adb0b25e-cf35-4509-bb69-5a80e80b5df0" />
+<img src="https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/8978dcd4-c784-40df-adf7-c6f2a569d177" />
   
 </div>
   
