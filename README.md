@@ -38,14 +38,14 @@ This repository was created to put my project carried out at Next Level Week #12
 <div align="center">
 
 ### ⚙️ Back end
-<img src="https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/558beb3a-ea1a-4abf-9df6-0df8cbfc220b" />
-  
+<img src="https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/0d988713-7e34-4dff-b8c5-20fe8407af49" />
+
 ### 🌐 Front end
-<img src="https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/8509e836-2db7-4731-94b7-2cb431fb5471" />
-  
+<img src="https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/622d07e4-9df5-4dc4-a75d-1c3b18772192" />
+
 ### 📱 Mobile
-<img src="https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/adb0b25e-cf35-4509-bb69-5a80e80b5df0" />
-<img src="https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/19fa335b-9e46-4f21-be8a-ad7f6378e8ec" />
+<img src="https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/fc22ca56-7384-47a3-a598-86297eba8ac1" />
+<img src="https://github.com/jonatasmota/NLW-Spacetime/assets/59838730/7b315c8e-d8c3-47c7-bd6e-1feb1802773f" />
   
 </div>
   
